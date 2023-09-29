@@ -1,0 +1,18 @@
+﻿  Application.cpp
+C:\Users\Bmadj\source\repos\C ++\EvaluationFinal\TableauProjections.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Cinema.cpp
+C:\Users\Bmadj\source\repos\C ++\EvaluationFinal\TableauProjections.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Bmadj\source\repos\C ++\EvaluationFinal\Cinema.cpp(60,13): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  Demande.cpp
+  EvaluationFinal.cpp
+C:\Users\Bmadj\source\repos\C ++\EvaluationFinal\TableauProjections.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  FileAttente.cpp
+  Film.cpp
+  ListeChainee.cpp
+  PileReservations.cpp
+  Projection.cpp
+  TableauProjections.cpp
+C:\Users\Bmadj\source\repos\C ++\EvaluationFinal\TableauProjections.h(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Utilisateur.cpp
+  Génération de code en cours...
+  EvaluationFinal.vcxproj -> C:\Users\Bmadj\source\repos\C ++\EvaluationFinal\x64\Debug\EvaluationFinal.exe
